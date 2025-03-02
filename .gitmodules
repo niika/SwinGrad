@@ -1,0 +1,3 @@
+[submodule "SwinIR-Grad"]
+	path = SwinIR-Grad
+	url = git@github.com:SimonMatern/SwinIR-Grad.git
